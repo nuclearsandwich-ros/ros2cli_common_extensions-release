@@ -1,1 +1,1 @@
-{"base": "1c067c7", "parent": "debian/rolling/ros2cli_common_extensions", "previous": "32e6ffe", "trim": "", "trimbase": ""}
+{"base": "e188746", "parent": "debian/humble/ros2cli_common_extensions", "previous": "2446664", "trim": "", "trimbase": ""}
