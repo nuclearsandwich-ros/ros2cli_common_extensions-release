@@ -1,1 +1,1 @@
-{"base": "ce3a5a1", "parent": "rpm/rolling/ros2cli_common_extensions", "previous": "3e21c2c", "trim": "", "trimbase": ""}
+{"base": "78610ec", "parent": "rpm/humble/ros2cli_common_extensions", "previous": "2923cc8", "trim": "", "trimbase": ""}
